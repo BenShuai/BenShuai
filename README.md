@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center"> 
+  <span style="font-weight: 700">Visitor Count</span>
+  <br>
+  <img src="https://profile-counter.glitch.me/BenShuai/count.svg" />
+</p>
+
+[![](https://github.com/BenShuai/BenShuai/blob/main/dino.gif?raw=true)](#)
+
+[![cangshudada's github stats](https://github-readme-stats.vercel.app/api?username=BenShuai&show_icons=true&theme=radical)](https://github.com/BenShuai)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenShuai&layout=compact)](https://github.com/BenShuai)
+
