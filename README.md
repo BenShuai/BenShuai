@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenShuai&layout=compact)](https://github.com/BenShuai)
 
+![](https://komarev.com/ghpvc/?username=BenShuai&color=dc143c)
